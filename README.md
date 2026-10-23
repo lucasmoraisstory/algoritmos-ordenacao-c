@@ -14,8 +14,6 @@ O programa conta com um menu interativo executado em loop que permite:
 
 ![Menu Interativo do Programa](menu.PNG)
 
-
-
 ## Algoritmos de Ordenação Implementados
 
 O sistema traz a implementação manual de 5 dos principais métodos de ordenação da literatura:
