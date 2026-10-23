@@ -2,7 +2,7 @@
 
 # Algoritmos de Ordenação e Manipulação de Arquivos em C
 
-Projeto desenvolvido como atividade avaliativa para a disciplina de Estrutura de Dados / Algoritmos. O objetivo principal é unir conceitos de manipulação de arquivos em disco com os principais algoritmos de ordenação estudados.
+Projeto desenvolvido como atividade avaliativa para a disciplina de Algoritmos e Pensamento Computacional. O objetivo principal é unir conceitos de manipulação de arquivos em disco com os principais algoritmos de ordenação estudados.
 
 ## Funcionalidades
 
