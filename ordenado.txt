@@ -1,0 +1,2 @@
+Algoritmo usado: Quick Sort
+Numeros ordenados: 5 18 22 24 69 70 75 78 90 92 
