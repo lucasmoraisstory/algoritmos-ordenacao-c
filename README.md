@@ -12,7 +12,7 @@ O programa conta com um menu interativo executado em loop que permite:
 3. **Persistência de Resultados:** Grava os valores ordenados em um novo arquivo (`ordenado.txt`), identificando o algoritmo que foi utilizado.
 4. **Alteração Dinâmica:** Permite escolher um índice do vetor, alterar o seu valor diretamente no arquivo de entrada e disparar uma nova reordenação imediata.
 
-![Menu Interativo do Programa](menu)
+![Menu Interativo do Programa](menu.PNG)
 
 
 
